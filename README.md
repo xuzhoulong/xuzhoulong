@@ -13,6 +13,8 @@
     </td>
     <td align="center" width="50%">
       <a href="https://xuzhoulong.github.io/map-tiles-download/" style="font-size:1.2rem; font-weight:bold;">地图瓦片下载</a>
+      <br/>
+      <a href="https://xuzhoulong.github.io/cesium-examples/many-frame.html" style="font-size:1.2rem; font-weight:bold;">海量点渲染-60FPS</a>
     </td>
   </tr>
 </table>
