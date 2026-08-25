@@ -1,7 +1,6 @@
 # 👋 Hi, I'm BC
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff" />
 
 </div>
@@ -20,11 +19,13 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=vue,js,ts,vite,html,css,sass" />
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=threejs" />
+<img src="https://skillicons.dev/icons?i=vue,js,ts,vite,html,css,sass,threejs" />
 
 <img src="https://skillicons.dev/icons?i=nodejs,pnpm,git,github,vscode,docker" />
+
+</div>
 
 
 
