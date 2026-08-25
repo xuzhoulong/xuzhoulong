@@ -1,39 +1,99 @@
+# 👋 Hi, I'm BC
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=xubingchao;xuzhoulong&center=true&size=27)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff" />
 
 </div>
 
-<br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="img.png" alt="alt text" style="max-width:100%;">
-    </td>
-    <td align="center" width="50%">
-      <a href="https://xuzhoulong.github.io/map-tiles-download/" style="font-size:1.2rem; font-weight:bold;">地图瓦片下载</a>
-      <br/>
-      <a href="https://xuzhoulong.github.io/cesium-examples/many-frame.html" style="font-size:1.2rem; font-weight:bold;">海量点渲染-60FPS</a>
-      <br/>
-      <a href="https://xuzhoulong.github.io/cesium-examples/index-LOD.html" style="font-size:1.2rem; font-weight:bold;">卫星LOD</a>
-        <br/>
-      <a href="https://xuzhoulong.github.io/cesium-example-sandcastle/index.html" style="font-size:1.2rem; font-weight:bold;">cesium示例沙盒</a>
-    </td>
-  </tr>
+## 🚀 About Me
+
+- 👨‍💻 Front-End Developer
+- 🌍 Focus on WebGIS / 3D Visualization / Digital Twin
+- 🛰️ Interested in Cesium, GIS, Space Visualization and Data Visualization
+- 🔭 Currently building high-performance 3D visualization applications
+- 💡 Love exploring open source technologies
+
+
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=vue,js,ts,vite,html,css,sass" />
+
+<img src="https://skillicons.dev/icons?i=threejs" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,pnpm,git,github,vscode,docker" />
+
+
+
+# 🌟 Featured Projects
+
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3>🗺️ 地图瓦片下载</h3>
+
+<p>
+GIS地图瓦片下载工具，支持地图浏览和瓦片数据获取。
+</p>
+
+<a href="https://xuzhoulong.github.io/map-tiles-download/">
+Live Demo →
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🚀 海量点渲染-60FPS</h3>
+
+<p>
+基于 Cesium 的海量点高性能渲染实验。
+</p>
+
+<a href="https://xuzhoulong.github.io/cesium-examples/many-frame.html">
+Live Demo →
+</a>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+<h3>🛰️ 卫星 LOD</h3>
+
+<p>
+Cesium 卫星模型动态加载与LOD优化。
+</p>
+
+<a href="https://xuzhoulong.github.io/cesium-examples/index-LOD.html">
+Live Demo →
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🌎 Cesium 示例沙盒</h3>
+
+<p>
+Cesium API交互式示例集合。
+</p>
+<a href="https://xuzhoulong.github.io/cesium-example-sandcastle/index.html">
+Live Demo →
+</a>
+
+</td>
+
+</tr>
+
 </table>
-
-<!--
-**xuzhoulong/xuzhoulong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
