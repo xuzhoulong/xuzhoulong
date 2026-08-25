@@ -5,32 +5,6 @@
 
 </div>
 
-
-## 🚀 About Me
-
-- 👨‍💻 Front-End Developer
-- 🌍 Focus on WebGIS / 3D Visualization / Digital Twin
-- 🛰️ Interested in Cesium, GIS, Space Visualization and Data Visualization
-- 🔭 Currently building high-performance 3D visualization applications
-- 💡 Love exploring open source technologies
-
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vue,js,ts,vite,html,css,sass,threejs" />
-
-<p/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,pnpm,git,github,vscode,docker" />
-
-</div>
-
-
-
 # 🌟 Featured Projects
 
 
@@ -100,3 +74,23 @@ Live Demo →
 </tr>
 
 </table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vue,js,ts,vite,html,css,sass,threejs" />
+
+<p/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,pnpm,git,github,vscode,docker" />
+
+</div>
+
+## 🚀 About Me
+
+- 👨‍💻 Front-End Developer
+- 🌍 Focus on WebGIS / 3D Visualization / Digital Twin
+- 🛰️ Interested in Cesium, GIS, Space Visualization and Data Visualization
+- 🔭 Currently building high-performance 3D visualization applications
+- 💡 Love exploring open source technologies
