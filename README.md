@@ -23,6 +23,8 @@
 
 <img src="https://skillicons.dev/icons?i=vue,js,ts,vite,html,css,sass,threejs" />
 
+<p/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,pnpm,git,github,vscode,docker" />
 
 </div>
