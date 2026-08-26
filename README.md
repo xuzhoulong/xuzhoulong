@@ -22,47 +22,12 @@ src="https://img.shields.io/badge/Website-Personal%20Homepage-blue?style=flat&lo
 </a>
 </div>
 
-# 🌐 Personal Homepage
+<div align="center">
 
-<table>
+🌎 My personal website and technical blog <a href="https://xuzhoulong.github.io/">xuzhoulong.github.io </a>
 
-<tr>
+</div>
 
-<td width="80">
-
-<img
-src="https://github.com/xuzhoulong.png"
-width="70"
-height="70"
-/>
-
-</td>
-
-<td>
-
-<h3>
-<a href="https://xuzhoulong.github.io/">
-xuzhoulong.github.io
-</a>
-</h3>
-
-<p>
-🌎 My personal website and technical blog
-</p>
-
-<p>
-
-<a href="https://xuzhoulong.github.io/">
-🌐 Website
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
 
 # 🌟 Featured Projects
 
