@@ -192,7 +192,6 @@ Cesium API 交互式示例集合，包含 Entity、Primitive、Camera 等实验�
 src="https://github.com/jiawanlong.png"
 width="70"
 height="70"
-style="border-radius:50%"
 />
 
 </a>
@@ -201,7 +200,7 @@ style="border-radius:50%"
 
 <td>
 
-<h3 style="margin:0">
+<h3>
 
 <a href="https://github.com/jiawanlong">
 jiawanlong
@@ -209,11 +208,11 @@ jiawanlong
 
 </h3>
 
-<p style="margin:0">
+<p>
 🌎 GIS & Cesium Developer
 </p>
 
-<p style="margin:0">
+<p>
 
 <a href="https://github.com/jiawanlong">
 
