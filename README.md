@@ -171,3 +171,68 @@ Cesium API 交互式示例集合，包含 Entity、Primitive、Camera 等实验�
 - 🛰️ Interested in Cesium, GIS, Space Visualization and Data Visualization
 - 🔭 Currently building high-performance 3D visualization applications
 - 💡 Love exploring open source technologies
+
+<h2>🌐 友情链接</h2>
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+<table>
+
+<tr>
+
+<td width="80">
+
+<a href="https://github.com/jiawanlong">
+
+<img
+src="https://github.com/jiawanlong.png"
+width="70"
+height="70"
+style="border-radius:50%"
+/>
+
+</a>
+
+</td>
+
+<td>
+
+<h3 style="margin:0">
+
+<a href="https://github.com/jiawanlong">
+jiawanlong
+</a>
+
+</h3>
+
+<p style="margin:0">
+🌎 GIS & Cesium Developer
+</p>
+
+<p style="margin:0">
+
+<a href="https://github.com/jiawanlong">
+
+<img
+src="https://img.shields.io/badge/GitHub-jiawanlong-black?style=flat&logo=github"
+/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
