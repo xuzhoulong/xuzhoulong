@@ -166,7 +166,7 @@ Cesium API 交互式示例集合，包含 Entity、Primitive、Camera 等实验�
 
 </table>
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -178,7 +178,7 @@ Cesium API 交互式示例集合，包含 Entity、Primitive、Camera 等实验�
 
 </div>
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 👨‍💻 Front-End Developer
 - 🌍 Focus on WebGIS / 3D Visualization / Digital Twin
@@ -186,7 +186,7 @@ Cesium API 交互式示例集合，包含 Entity、Primitive、Camera 等实验�
 - 🔭 Currently building high-performance 3D visualization applications
 - 💡 Love exploring open source technologies
 
-<h2>🌐 友情链接</h2>
+# 🌐 友情链接
 
 <table>
 
