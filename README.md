@@ -11,13 +11,16 @@
 
 </div>
 
-<a href="https://xuzhoulong.github.io/"  align="center">
+<div align="center">
+
+<a href="https://xuzhoulong.github.io/"  >
 
 <img 
 src="https://img.shields.io/badge/Website-Personal%20Homepage-blue?style=flat&logo=googlechrome"
 />
 
 </a>
+</div>
 
 # 🌟 Featured Projects
 
