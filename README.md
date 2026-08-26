@@ -1,4 +1,10 @@
-# 👋 Hi, I'm xubingchao
+<!-- # 👋 Hi, I'm xubingchao -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=xubingchao;xuzhoulong&center=true&size=27)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff" />
