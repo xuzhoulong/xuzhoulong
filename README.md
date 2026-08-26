@@ -174,7 +174,7 @@ Cesium API 交互式示例集合，包含 Entity、Primitive、Camera 等实验�
 
 <h2>🌐 友情链接</h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 
 <tr>
 
@@ -200,17 +200,17 @@ height="70"
 
 <td>
 
-<h3>
+<div>
 
 <a href="https://github.com/jiawanlong">
 jiawanlong
-</a>
+</div>
 
 </h3>
 
-<div>
+<p>
 🌎 GIS & Cesium Developer
-</div>
+</p>
 
 <div>
 
