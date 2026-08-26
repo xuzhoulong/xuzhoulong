@@ -203,6 +203,60 @@ Cesium API 交互式示例集合，包含 Entity、Primitive、Camera 等实验�
 
 <td width="80">
 
+<a href="https://github.com/xuzhoulong">
+
+<img
+src="https://github.com/xuzhoulong.png"
+width="70"
+height="70"
+/>
+
+</a>
+
+</td>
+
+<td>
+
+<div>
+
+<a href="https://github.com/xuzhoulong">
+xuzhoulong
+</div>
+
+</h3>
+
+<div>
+🌎 GIS & Cesium Developer
+</div>
+
+<div>
+
+<a href="https://github.com/xuzhoulong">
+
+<img
+src="https://img.shields.io/badge/GitHub-xuzhoulong-black?style=flat&logo=github"
+/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+<td width="33%">
+
+<table>
+
+<tr>
+
+<td width="80">
+
 <a href="https://github.com/jiawanlong">
 
 <img
